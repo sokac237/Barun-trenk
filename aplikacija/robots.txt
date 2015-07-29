@@ -1,0 +1,20 @@
+
+User-agent: *
+
+Disallow: /Bin/
+Disallow: /slike/
+Disallow: /slikejela/
+Disallow: /slikerestoran/
+Disallow: /master.Master
+Disallow: /Odjava.aspx
+Disallow: /Kosarica.aspx
+Disallow: /SessionExpired.aspx
+Disallow: /Error.aspx
+Disallow: /counter.xml
+Disallow: /counter.ascx
+
+
+# Allow: /default.aspx
+# Allow: /ProductPage.aspx
+
+# End robots.txt file

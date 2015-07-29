@@ -1,0 +1,170 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="aplikacija.master"%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<script type='text/javascript' src="Script.txt"></script>
+
+<script type='text/javascript' src="Top.js"></script>
+
+<script type='text/javascript' src="scrollsaver.min.js"></script>
+
+<script type="text/javascript">
+        $(function () {
+            var offset = $("#sidebar").offset();
+            var topPadding = 15;
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > offset.top) {
+                    $("#sidebar").stop().animate({
+                        marginTop: $(window).scrollTop() - offset.top + topPadding
+                    });
+                } else {
+                    $("#sidebar").stop().animate({
+                        marginTop: 0
+                    });
+                };
+            });
+        });
+</script>
+
+<script type="text/javascript">
+        function ShowTime() {
+            var dt = new Date();
+            document.getElementById("<%= TextBox1.ClientID %>").value = dt.toLocaleTimeString();
+            window.setTimeout("ShowTime()", 1000);
+        }  
+</script>
+
+<script runat="server">
+    public string pocetna, onama, kako, kontakt;
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        System.IO.FileInfo fi = new System.IO.FileInfo(System.Web.HttpContext.Current.Request.Url.AbsolutePath);
+        string currentPagename = fi.Name;
+        Actived(currentPagename);
+    }
+
+    void Actived(string currentPagename)
+    {
+        switch (currentPagename)
+        {
+            case "Pocetna.aspx":
+                {
+                    pocetna = "current_page_item";
+                    onama = "";
+                    kako = "";
+                    kontakt = "";
+                    break;
+                }
+            case "O-nama.aspx":
+                {
+                    pocetna = "";
+                    onama = "current_page_item";
+                    kako = "";
+                    kontakt = "";
+                    break;
+                }
+            case "Kako-naruciti.aspx":
+                {
+                    pocetna = "";
+                    onama = "";
+                    kako = "current_page_item";
+                    kontakt = "";
+                    break;
+                }
+            case "Kontakt.aspx":
+                {
+                    pocetna = "";
+                    onama = "";
+                    kako = "";
+                    kontakt = "current_page_item";
+                    break;
+                }
+        }
+    }
+</script>
+
+<head runat="server" id="PageHead">
+<link rel="shourcut icon" href="slike/fav.png" />
+    <title id="MasterTitle" runat="server">Dobrodošli na stranice restorana Barun Trenk Vinkovci</title>
+    <meta name="description" id="MasterDescription" runat="server" content="Restoran Barun Trenk pruža usluge online narudžbe jela, dostave na kućnu adresu, cateringa, iznajmljivanja sala za sve prigode" />
+    <meta name="keywords" id="MasterKeywords" runat="server" content="Barun Trenk, catering, kuhinja, hrana, dostava, jelo, sale" />
+
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="MetaData" Visible="false" runat="server" />
+</head>
+
+<body>
+
+    <form id="form" runat="server">
+        <div id="container">
+            <div id="header">
+                <div id="logo"><a href="http://www.stanic-vk.hr/"><img alt="Stanic d.o.o" 
+                        src="slike/logo.png" style="border:0" title="Stanić d.o.o." width="230"/></a><br />
+                    <a href="Pocetna.aspx" style="font-family: 'Times New Roman', Times, serif; font-size: 22px; font-style: italic; color: #FFFFFF;">Restoran Barun Trenk</a>
+                    </div>
+
+            </div>
+            <div id="menu"> 
+                    <ul>
+                    <li class="<%= pocetna %>">
+                        <a href="Pocetna.aspx" title="Narudžba">Proizvodi</a>
+                    </li>
+                     <li class="<%= kako %>">
+                        <a href="Kako-naruciti.aspx" title="Kako naručiti">Kako naručiti</a>
+                    </li>
+                    <li class="<%= onama %>">
+                        <a href="O-nama.aspx" title="O nama">O nama</a>
+                    </li>
+                     <li class="<%= kontakt %>">
+                        <a href="Kontakt.aspx" title="Kontakt">Kontakt</a>
+                    </li>
+                </ul>
+                <ul>
+                <li style=" float:right">
+                    <asp:TextBox ID="TextBox1" runat="server" Width="55px" Enabled="False" style="margin-left: 27px"></asp:TextBox></li>
+                </ul>
+            </div>
+            <div id="main">
+                <div id ="separator"></div>
+                <div id="sidebar">                   
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <div class="project">
+                        Neki tekst ide ovdje
+                         </div>  
+                        </asp:ContentPlaceHolder>                    
+                </div>
+                <div id="text">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                            <p>
+                                <br />
+                            </p>
+                        </asp:ContentPlaceHolder>
+                        <br />
+                </div>
+                <div id ="Div1"></div>                 
+
+            </div>    
+                    <div id="footer">   
+                    <p class="left" style="color: #FFFFFF"><a href="http://www.stanic-vk.hr/" style="font-family: 'Times New Roman'" 
+                              title="Stanić d.o.o.">Copyright © Stanić d.o.o.</a> 2011<br />
+                            &nbsp&nbsp&nbsp&nbsp<asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server"> 
+                            </asp:ContentPlaceHolder><br /></p>
+                    <p class="right" style="color: #FFFFFF">Design: <a href="http://www.fortuno.hr/" style="font-family: 'Times New Roman'" 
+                              title="Informatika Fortuno d.o.o.">Informatika Fortuno d.o.o.</a></p>
+                    </div>
+        </div>
+<div id="topcontrol" style="position: fixed; bottom: 5px; right: 5px; cursor: pointer;" title="Povratak na vrh">
+</div>
+    </form>
+
+</body>
+
+<script type="text/javascript">
+    window.setTimeout("ShowTime()", 1000);
+</script>
+
+</html>

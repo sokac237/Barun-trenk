@@ -1,0 +1,380 @@
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\aplikacija\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\aplikacija\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\aplikacija\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\aplikacija\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 1.0\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 1.0\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 1.0\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 1.0\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 1.0\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 1.0\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.0\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.0\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.0\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.0\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.0\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.0\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.1\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.1\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.1\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.1\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.1\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.1\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.2\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.2\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.2\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.2\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.2\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.2\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.3\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.3\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.3\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.3\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.3\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.3\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.4\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.4\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.4\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.4\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.4\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.4\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.5\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.5\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.5\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.5\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.5\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 2.5\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 3.1\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 3.1\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 3.1\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 3.1\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 3.1\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 3.1\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.1\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.1\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.1\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.1\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.1\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.1\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.2\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.2\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.2\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.2\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.2\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 4.2\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.0\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.0\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.0\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.0\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.0\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.0\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.1\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.1\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.1\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.1\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.1\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.1\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.2\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.2\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.2\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.2\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.2\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.2\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.3\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.3\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.3\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.3\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.3\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.3\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.4\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.4\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.4\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.4\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.4\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.4\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.5\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.5\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.5\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.5\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.5\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 5.5\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.0\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.0\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.0\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.0\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.0\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.0\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.1\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.1\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.1\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.1\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.1\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.1\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.2\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.3\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.4\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 6.5 _scroll\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_scroll\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 7.0\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.1\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.2\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.3\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.4\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.5\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.6\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.7\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 8.8\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Desktop\cookies\stranica 8.8\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Desktop\cookies\stranica 9.0\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 10.0\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 11\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica 12\aplikacija\bin\NotesForGallery.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\NotesForGallery.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\stranica_novo\aplikacija\bin\NotesForGallery.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\NotesForGallery.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\bin\NotesForGallery.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_web\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\NotesForGallery.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\bin\NotesForGallery.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\obj\Debug\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk_optimizacija\aplikacija\obj\Debug\aplikacija.csproj.ResolveComReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\aplikacija.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\Captcha.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\Captcha.NET.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\NotesForGallery.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\Captcha.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\Captcha.NET.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\bin\NotesForGallery.pdb
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\obj\Debug\aplikacija.csproj.ResolveComReference.cache
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\obj\Debug\aplikacija.dll.licenses
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\obj\Debug\aplikacija.dll
+C:\Users\IvanS\Documents\Visual Studio 2010\Projects\Barun_Trenk\aplikacija\obj\Debug\aplikacija.pdb
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\bin\aplikacija.dll
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\bin\aplikacija.pdb
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\bin\Captcha.pdb
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\bin\Captcha.NET.pdb
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\bin\NotesForGallery.pdb
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\obj\Debug\aplikacija.csproj.ResolveComReference.cache
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\obj\Debug\aplikacija.dll.licenses
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\obj\Debug\aplikacija.dll
+H:\restoran\web_narudzbe\Barun_Trenk\aplikacija\obj\Debug\aplikacija.pdb
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\bin\aplikacija.dll
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\bin\aplikacija.pdb
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\bin\Captcha.pdb
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\bin\Captcha.NET.pdb
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\bin\NotesForGallery.pdb
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\obj\Debug\aplikacija.csproj.ResolveComReference.cache
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\obj\Debug\aplikacija.dll.licenses
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\obj\Debug\aplikacija.dll
+H:\restoran\web_narudzbe\Barun_Trenk_aktualna\aplikacija\obj\Debug\aplikacija.pdb

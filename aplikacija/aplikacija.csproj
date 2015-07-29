@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA18BD22-7C9F-42D8-AB2F-2463EACB8580}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>aplikacija</RootNamespace>
+    <AssemblyName>aplikacija</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Advantage.Data.Provider, Version=8.10.2.38, Culture=neutral, PublicKeyToken=e33137c86a38dc06, processorArchitecture=MSIL" />
+    <Reference Include="Captcha">
+      <HintPath>..\..\..\..\..\Desktop\dijelovi\Nova mapa\Captcha.NET\Captcha.NET\bin\Captcha.dll</HintPath>
+    </Reference>
+    <Reference Include="Captcha.NET">
+      <HintPath>..\..\..\..\..\Desktop\dijelovi\Nova mapa\Captcha.NET\Captcha.NET\bin\Captcha.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=940cfcde86f32efd, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.ASPxEditors.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=940cfcde86f32efd, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Web.v10.1, Version=10.1.5.0, Culture=neutral, PublicKeyToken=940cfcde86f32efd, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.3.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="NotesForGallery, Version=2.0.3719.30480, Culture=neutral, PublicKeyToken=b48ae845d7fba581, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\system tray\galerije\novo\asd\NotesForGalleryFx3.5\NotesForGallery\bin\Release\NotesForGallery.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CaptchaImages\3DJJN.jpg" />
+    <Content Include="counter.ascx" />
+    <Content Include="Error.aspx" />
+    <Content Include="Kako-naruciti.aspx" />
+    <Content Include="Kontakt.aspx" />
+    <Content Include="O-nama.aspx" />
+    <Content Include="Odjava.aspx" />
+    <Content Include="Pocetna.aspx" />
+    <Content Include="Script.txt" />
+    <Content Include="scrollsaver.min.js" />
+    <Content Include="SessionExpired.aspx" />
+    <Content Include="Kosarica.aspx" />
+    <Content Include="slikejela\3.gif" />
+    <Content Include="slikejela\4.gif" />
+    <Content Include="slikejela\5.gif" />
+    <Content Include="slikejela\6.gif" />
+    <Content Include="slikejela\7.gif" />
+    <Content Include="slikejela\8.gif" />
+    <Content Include="slikejela\1.gif" />
+    <Content Include="slikejela\2.gif" />
+    <Content Include="slikerestoran\Slika1.gif" />
+    <Content Include="slikerestoran\Slika2.gif" />
+    <Content Include="slikerestoran\Slika3.gif" />
+    <Content Include="slikerestoran\Slika4.gif" />
+    <Content Include="slikerestoran\Slika5.gif" />
+    <Content Include="slikerestoran\Slika6.gif" />
+    <Content Include="slike\5.jpg" />
+    <Content Include="slike\5.png" />
+    <Content Include="slike\as.png" />
+    <Content Include="slike\asd.png" />
+    <Content Include="slike\asds.png" />
+    <Content Include="slike\banner1.jpg" />
+    <Content Include="slike\banner2.jpg" />
+    <Content Include="slike\body_back.jpg" />
+    <Content Include="slike\cart1.jpg" />
+    <Content Include="slike\Chrome.png" />
+    <Content Include="slike\dodaj.png" />
+    <Content Include="slike\dodaj21.png" />
+    <Content Include="slike\dodaj22.png" />
+    <Content Include="slike\dodaj221.png" />
+    <Content Include="slike\dodaj_pz.png" />
+    <Content Include="slike\error.png" />
+    <Content Include="slike\fav.png" />
+    <Content Include="slike\final.png" />
+    <Content Include="slike\Firefox.png" />
+    <Content Include="slike\footer_back.gif" />
+    <Content Include="slike\fortuno.jpg" />
+    <Content Include="slike\GENSCHER.gif" />
+    <Content Include="slike\IE.png" />
+    <Content Include="slike\konacno.png" />
+    <Content Include="slike\kosarica.png" />
+    <Content Include="slike\kosarica2.png" />
+    <Content Include="slike\logo.png" />
+    <Content Include="slike\Opera.png" />
+    <Content Include="slike\pozadina.gif" />
+    <Content Include="slike\pozadina.jpg" />
+    <Content Include="slike\prva.png" />
+    <Content Include="slike\restoran.gif" />
+    <Content Include="slike\Safari.png" />
+    <Content Include="slike\stanic.gif" />
+    <Content Include="slike\top.png" />
+    <Content Include="slike\top1.png" />
+    <Content Include="style.css" />
+    <Content Include="Top.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="counter.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alert.cs" />
+    <Compile Include="CartItem.cs" />
+    <Compile Include="counter.ascx.cs">
+      <DependentUpon>counter.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="counter.ascx.designer.cs">
+      <DependentUpon>counter.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="Kako-naruciti.aspx.cs">
+      <DependentUpon>Kako-naruciti.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kako-naruciti.aspx.designer.cs">
+      <DependentUpon>Kako-naruciti.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Kontakt.aspx.cs">
+      <DependentUpon>Kontakt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kontakt.aspx.designer.cs">
+      <DependentUpon>Kontakt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="master.Master.cs">
+      <DependentUpon>master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="master.Master.designer.cs">
+      <DependentUpon>master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="NetCaptcha.cs" />
+    <Compile Include="O-nama.aspx.cs">
+      <DependentUpon>O-nama.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="O-nama.aspx.designer.cs">
+      <DependentUpon>O-nama.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Odjava.aspx.cs">
+      <DependentUpon>Odjava.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Odjava.aspx.designer.cs">
+      <DependentUpon>Odjava.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pocetna.aspx.cs">
+      <DependentUpon>Pocetna.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pocetna.aspx.designer.cs">
+      <DependentUpon>Pocetna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SessionExpired.aspx.cs">
+      <DependentUpon>SessionExpired.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SessionExpired.aspx.designer.cs">
+      <DependentUpon>SessionExpired.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShoppingCart.cs" />
+    <Compile Include="upiti.cs" />
+    <Compile Include="Kosarica.aspx.cs">
+      <DependentUpon>Kosarica.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kosarica.aspx.designer.cs">
+      <DependentUpon>Kosarica.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="master.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54475</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
